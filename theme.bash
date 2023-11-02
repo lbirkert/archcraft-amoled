@@ -65,8 +65,8 @@ dunst_separator='2'
 
 # Picom
 picom_backend='glx'
-picom_corner='0'
-picom_shadow_r='14'
+picom_corner='8'
+picom_shadow_r='24'
 picom_shadow_o='0.30'
 picom_shadow_x='-12'
 picom_shadow_y='-12'
@@ -79,5 +79,5 @@ bspwm_nbc="$background"
 bspwm_abc="$color5"
 bspwm_pfc="$color2"
 bspwm_border='0'
-bspwm_gap='0'
+bspwm_gap='8'
 bspwm_sratio='0.50'
